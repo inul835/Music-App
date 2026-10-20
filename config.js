@@ -11,13 +11,13 @@ window.HUM_CONFIG = {
    *    https://drive.google.com/drive/folders/1A2b3C4d5E6f7G8h9IjKlMnOpQrStUvW
    *                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    *    The folder must be shared as "Anyone with the link · Viewer".   */
-  DRIVE_FOLDER_ID: 'PASTE_YOUR_FOLDER_ID_HERE',
+  DRIVE_FOLDER_ID: 'https://drive.google.com/drive/folders/1p8vJA-0TM4blCQ6z5YAaocNKUhXKbfJo',
 
   /* 2) A Google Drive API key.
    *    console.cloud.google.com → create project → enable "Google Drive API"
    *    → Credentials → Create credentials → API key.
    *    Restrict it to the Drive API + your website's domain (guide §3.4). */
-  API_KEY: 'PASTE_YOUR_API_KEY_HERE',
+  API_KEY: 'AIzaSyDlQlkR-ZtV2KKyfanM2lfcSlKg7sfMirI',
 
   /* 3) OPTIONAL: a simple password gate shown before the library opens.
    *    Leave '' to disable. Note: this is a light privacy screen, not

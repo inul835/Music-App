@@ -1,0 +1,18 @@
+{
+  "name": "hum-drive-music",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Hum — a private music player for your Google Drive. Single-file frontend, no server, no database.",
+  "scripts": {
+    "dev": "npx -y serve -l 3000 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": ["music player", "google drive", "pwa", "static site"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

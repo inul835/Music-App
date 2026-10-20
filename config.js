@@ -11,7 +11,7 @@ window.HUM_CONFIG = {
    *    https://drive.google.com/drive/folders/1A2b3C4d5E6f7G8h9IjKlMnOpQrStUvW
    *                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    *    The folder must be shared as "Anyone with the link · Viewer".   */
-  DRIVE_FOLDER_ID: 'https://drive.google.com/drive/folders/1p8vJA-0TM4blCQ6z5YAaocNKUhXKbfJo',
+  DRIVE_FOLDER_ID: '1p8vJA-0TM4blCQ6z5YAaocNKUhXKbfJo',
 
   /* 2) A Google Drive API key.
    *    console.cloud.google.com → create project → enable "Google Drive API"
